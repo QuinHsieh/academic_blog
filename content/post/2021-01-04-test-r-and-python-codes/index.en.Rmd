@@ -1,0 +1,28 @@
+---
+title: Test R and Python codes
+author: Quin Hsieh
+date: '2021-01-04'
+slug: test-r-and-python-codes
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-01-04T14:49:08+08:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+```{r}
+library(reticulate)
+plot(iris)
+```
+
+```{python}
+for i in range(10):
+    print(i)
+```

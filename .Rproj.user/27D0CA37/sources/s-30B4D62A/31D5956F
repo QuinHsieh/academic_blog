@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1609742948347.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "31D5956F",
+    "lastKnownWriteTime" : 1609743074,
+    "last_content_update" : 1609743074805,
+    "path" : "~/academic_blog/content/post/2021-01-04-test-r-and-python-codes/index.en.Rmd",
+    "project_path" : "content/post/2021-01-04-test-r-and-python-codes/index.en.Rmd",
+    "properties" : {
+        "cursorPosition" : "21,3",
+        "scrollLine" : "5"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
